@@ -1,0 +1,5 @@
+# add custom routing
+collections:
+  files:
+    permalink: /:path:output_ext
+    output: true

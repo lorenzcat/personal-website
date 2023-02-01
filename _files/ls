@@ -1,0 +1,5 @@
+---
+description: list of available files
+---
+{% for post in site.files %}{% if post.url != "/ls" %}- {{ post.url }}: {{ post.description }}
+{% endif %}{% endfor %}
