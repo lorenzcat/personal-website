@@ -1,0 +1,2 @@
+- /key: my public key
+- /tmux.conf: custom tmux configuration
